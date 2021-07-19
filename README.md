@@ -1,7 +1,7 @@
 # library-system
 Library Management System coded in Python with GUI
 
-This is a Library Management System that was coded in Python and uses the Python TKinter GUI.
+This is a Library Management System that was coded in Python and uses the Python Tkinter GUI.
 Features a login system for staff, patrons and admins.
 
 Patrons are able to browse for books, check out books and return books.
